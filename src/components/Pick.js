@@ -58,7 +58,7 @@ class Pick extends React.Component {
                         <span>选定</span>
                     </button>
                 </div>
-                <div className="footer">选择数据源</div>
+                {/*<div className="footer">选择数据源</div>*/}
             </div>
         );
     }
